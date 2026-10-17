@@ -1,0 +1,6 @@
+services:
+  rt:
+    image: ghcr.io/raulogh/rt-docker:latest
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
