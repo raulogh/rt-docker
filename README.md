@@ -1,3 +1,8 @@
+# DEPRECATED NOTICE
+The application requires a mail system already provided within OS (which in this case it is not)
+Needs more work in order to be able to finish the quick setup page
+For now you cannot run the docker image at all, it is unusable in this state.
+
 # How to run
 1. create new container:
 
